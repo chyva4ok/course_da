@@ -15,8 +15,8 @@
 
 ## Контакты
 
-📧 ![oleg.golovko.1992@gmail.com](mailto:oleg.golovko.1992@gmail.com)
+📧 [oleg.golovko.1992@gmail.com](mailto:oleg.golovko.1992@gmail.com)
 
-![Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
+![Stepik Logo](https://camo.githubusercontent.com/51b58872364a64a…5732f73746570696b5f73696d706c655f6c6f676f2e706e67) [Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
 
 
