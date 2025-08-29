@@ -17,6 +17,6 @@
 
 📧 [oleg.golovko.1992@gmail.com](mailto:oleg.golovko.1992@gmail.com)
 
-![Stepik Logo](./stepik_logo.png =20x20) [Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
+<img src="./stepik_logo.png" alt="Stepik Logo" width="20"/> [Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
 
 
