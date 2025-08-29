@@ -13,12 +13,10 @@
     ```
 
 
-    ```
-
 ## Контакты
 
- 📧 ![oleg.golovko.1992@gmail.com](mailto:oleg.golovko.1992@gmail.com)
+📧 ![oleg.golovko.1992@gmail.com](mailto:oleg.golovko.1992@gmail.com)
 
-	![Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
+![Мой профиль на Stepik](https://stepik.org/users/479659371/profile)
 
 
